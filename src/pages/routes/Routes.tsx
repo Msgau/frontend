@@ -1,7 +1,6 @@
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
-import Home from './Home';
-import Error404 from './Error404';
-
+import Home from '../home/Home';
+import Error404 from '../error404/Error404';
 function RouteConfiguration() {
 
     return (

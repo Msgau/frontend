@@ -1,0 +1,19 @@
+.gMapsMap {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.gMapsSearch {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    form {
+        width: 100%;
+        display: flex;
+        justify-content: space-around;
+    }
+    input {
+        width: 80%;
+    }
+}
